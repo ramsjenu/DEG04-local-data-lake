@@ -1,0 +1,12 @@
+jsonschema>=4.18.0
+simplejson==3.11.1
+confluent-kafka
+fastavro
+avro-python3
+starrocks
+quixstreams
+pyspark==3.4.0
+minio
+delta-spark==2.4.0
+PyDrive
+boto3
